@@ -84,4 +84,10 @@ footer {
     background-color: black;
     color: rgb(68, 148, 11);
     text-align: center;
+    padding: 5px;
+}
+footer p.footer {
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 15px;
 }
