@@ -1,5 +1,6 @@
 ## Projeto Cordel 
-Projeto foi atraves do curso em video
+Projeto foi atraves do curso em video.
+Foi utilizado um efeito paralax
 
 ## Tecnologia Utilizada
 
